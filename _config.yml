@@ -1,0 +1,14 @@
+layout_spectrum: 0.5783208
+typography_spectrum: 0.3056509
+color:
+  saturation: 0.485589
+  brandStrength: 0.1140351
+  lightness: 0.5219298
+  brandColors:
+    - '#070707'
+    - '#707178'
+    - '#7596AC'
+    - '#BB8FB3'
+    - '#71BCDA'
+  rhythmicContrast: 0.4183246
+name: I Choose Love
